@@ -1,0 +1,34 @@
+h5 {
+    color: Red;
+    background-color: black;
+}
+
+#id1 {
+    color: Green;
+    background-color: yellowgreen;
+}
+
+.class1 {
+    color: Blue;
+    background-color: lightblue;
+}
+
+h6,
+h4 {
+    color: grey;
+    background-color: green;
+}
+
+.one {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+}
+
+.two {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: inline-block;
+}
